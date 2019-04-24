@@ -1,0 +1,4 @@
+authors = ["vincentcp"]
+name = "CardinalBSplines"
+repo = "https://github.com/vincentcp/CardinalBSplines.jl"
+uuid = "87d49508-7ad8-11e8-0eda-cb6920b58870"
