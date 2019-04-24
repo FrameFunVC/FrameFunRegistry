@@ -1,0 +1,15 @@
+name = "FrameFun General"
+uuid = "ba14b903-9d48-5ec9-93b4-2d38f0d10dc3"
+repo = "https://github.com/vincentcp/FrameFunGeneral.git"
+
+description = """
+Julia package registry for unregistered packages used in
+FrameFun.jl and its dependencies.
+"""
+
+[packages]
+4343a256-5453-507d-8aad-01a9d7189916 = {name = "BasisFunctions", path = "B/BasisFunction"}
+bbafa164-4497-5d18-87cf-33e911f89480 = {name = "FrameFun", path = "F/FrameFun"}
+455b6770-8cd4-11e8-0457-dd6f5558b097 = {name = "CompactTranslatesDict", path = "C/CompactTranslatesDict"}
+87d49508-7ad8-11e8-0eda-cb6920b58870 = {name = "CardinalBSplines", path = "C/CardinalBSplines"}
+a3035606-0d97-52a5-9f37-19f5f67b7424 = {name = "Sequences", path = "S/Sequences"}
