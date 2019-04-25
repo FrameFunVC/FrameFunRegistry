@@ -1,0 +1,4 @@
+authors = ["vincentcp", "daanhb"]
+name = "InfiniteVectors"
+repo = "https://github.com/vincentcp/InfiniteVectors.jl"
+uuid = "a3035606-0d97-52a5-9f37-19f5f67b7424"
