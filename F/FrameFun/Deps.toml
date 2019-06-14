@@ -12,7 +12,7 @@ RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 
 ["0.0.1"]
-Grids = "356ae075-8bc9-5ef9-a342-46c9ba26438c"
+GridArrays = "356ae075-8bc9-5ef9-a342-46c9ba26438c"
 LowRankApprox = "898213cb-b102-5a47-900c-97e73b919f73"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"

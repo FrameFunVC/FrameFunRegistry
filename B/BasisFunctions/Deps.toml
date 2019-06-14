@@ -22,5 +22,5 @@ ToeplitzMatrices = "c751599d-da0a-543b-9d20-d0a503d91d24"
 
 ["0.0.1"]
 GaussQuadrature = "d54b0c1a-921d-58e0-8e36-89d8069c0969"
-Grids = "356ae075-8bc9-5ef9-a342-46c9ba26438c"
+GridArrays = "356ae075-8bc9-5ef9-a342-46c9ba26438c"
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
