@@ -1,0 +1,8 @@
+["0.0"]
+CardinalBSplines = "87d49508-7ad8-11e8-0eda-cb6920b58870"
+CompactTranslatesDict = "455b6770-8cd4-11e8-0457-dd6f5558b097"
+DomainSets = "5b8099bc-c8ec-5219-889f-1d9e522a28bf"
+FrameFun = "bbafa164-4497-5d18-87cf-33e911f89480"
+InfiniteVectors = "a3035606-0d97-52a5-9f37-19f5f67b7424"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
