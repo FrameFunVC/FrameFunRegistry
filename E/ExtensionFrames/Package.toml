@@ -1,4 +1,4 @@
-authors = ["vincentcp <vincent.coppe@gmail.com>"]
+authors = ["vincentcp"]
 name = "ExtensionFrames"
 repo = "https://github.com/FrameFunVC/ExtensionFrames.jl"
 uuid = "f9748e22-9376-11e9-1445-759e914de658"
