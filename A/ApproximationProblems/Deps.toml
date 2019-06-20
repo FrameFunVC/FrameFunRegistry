@@ -1,0 +1,6 @@
+["0.1"]
+BasisFunctions = "4343a256-5453-507d-8aad-01a9d7189916"
+DomainSets = "5b8099bc-c8ec-5219-889f-1d9e522a28bf"
+ExtensionFrames = "f9748e22-9376-11e9-1445-759e914de658"
+Platforms = "230b87a6-f88e-54c3-9b7d-9b6a38635d3a"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
