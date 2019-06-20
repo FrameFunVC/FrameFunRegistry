@@ -12,5 +12,7 @@ FrameFun.jl and its dependencies.
 0b21e58f-1780-5391-9880-11ae5a9ef91b = { name = "BSplineExtension", path = "B/BSplineExtension" }
 455b6770-8cd4-11e8-0457-dd6f5558b097 = { name = "CompactTranslatesDict", path = "C/CompactTranslatesDict" }
 87d49508-7ad8-11e8-0eda-cb6920b58870 = { name = "CardinalBSplines", path = "C/CardinalBSplines" }
-a3035606-0d97-52a5-9f37-19f5f67b7424 = { name = "InfiniteVectors", path = "I/InfiniteVectors" }
+f9748e22-9376-11e9-1445-759e914de658 = { name = "ExtensionFrames", path = "E/ExtensionFrames" }
 bbafa164-4497-5d18-87cf-33e911f89480 = { name = "FrameFun", path = "F/FrameFun" }
+a3035606-0d97-52a5-9f37-19f5f67b7424 = { name = "InfiniteVectors", path = "I/InfiniteVectors" }
+230b87a6-f88e-54c3-9b7d-9b6a38635d3a = { name = "Platforms", path = "P/Platforms" }
