@@ -1,4 +1,4 @@
 authors = ["vincentcp"]
 name = "DocumentPGFPlots"
-repo = "https://github.com/vincentcp/DocumentPGFPlots.jl"
+repo = "https://github.com/FrameFunVC/DocumentPGFPlots.jl"
 uuid = "7bd7de4a-9dc3-11e9-2e0f-c97135212476"
