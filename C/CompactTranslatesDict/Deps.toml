@@ -8,9 +8,9 @@ LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 ["0.0.0-0.0.2"]
 FrameFun = "bbafa164-4497-5d18-87cf-33e911f89480"
 
-["0.0.1-0.0.4"]
+["0.0.1-0.0.5"]
 FillArrays = "1a297f60-69ca-5386-bcde-b61e274b549b"
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
 
-["0.0.4"]
+["0.0.4-0.0.5"]
 InfiniteVectors = "a3035606-0d97-52a5-9f37-19f5f67b7424"
