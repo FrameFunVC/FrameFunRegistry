@@ -7,8 +7,8 @@ BasisFunctions = "0.0.1"
 ["0.0.3"]
 BasisFunctions = "0.0.3"
 
-["0.0.3-0.0.4"]
+["0.0.3-0.0.5"]
 GridArrays = "0.1.1-*"
 
-["0.0.4"]
+["0.0.4-0.0.5"]
 BasisFunctions = "0.0.3-*"
