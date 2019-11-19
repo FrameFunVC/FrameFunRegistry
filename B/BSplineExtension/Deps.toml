@@ -10,3 +10,8 @@ PGFPlotsX = "8314cec4-20b6-5062-9cdb-752b83310925"
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
+["0.1"]
+BSON = "fbb218c0-5317-5bc6-957e-2ee96dd4b1f0"
+MAT = "23992714-dd62-5051-b70f-ba57cb901cac"
+SuiteSparse = "4607b0f0-06f3-5cda-b6b1-a6196a1729e9"
