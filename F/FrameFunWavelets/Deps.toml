@@ -1,0 +1,9 @@
+["0.1"]
+BasisFunctions = "4343a256-5453-507d-8aad-01a9d7189916"
+CompactTranslatesDict = "455b6770-8cd4-11e8-0457-dd6f5558b097"
+DomainSets = "5b8099bc-c8ec-5219-889f-1d9e522a28bf"
+GridArrays = "356ae075-8bc9-5ef9-a342-46c9ba26438c"
+InfiniteVectors = "a3035606-0d97-52a5-9f37-19f5f67b7424"
+RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+WaveletsEvaluation = "56f66b1c-89a8-11e8-2073-09c9ab0369ab"
