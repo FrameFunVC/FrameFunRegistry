@@ -18,4 +18,5 @@ FrameFun.jl and its dependencies.
 87d49508-7ad8-11e8-0eda-cb6920b58870 = { name = "CardinalBSplines", path = "C/CardinalBSplines" }
 a3035606-0d97-52a5-9f37-19f5f67b7424 = { name = "InfiniteVectors", path = "I/InfiniteVectors" }
 bbafa164-4497-5d18-87cf-33e911f89480 = { name = "FrameFun", path = "F/FrameFun" }
+c9bc6882-9037-11e8-11a4-43728c8de873 = { name = "FrameFunWavelets", path = "F/FrameFunWavelets" }
 f9748e22-9376-11e9-1445-759e914de658 = { name = "ExtensionFrames", path = "E/ExtensionFrames" }
