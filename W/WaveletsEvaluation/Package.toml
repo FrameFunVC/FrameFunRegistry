@@ -1,0 +1,4 @@
+authors = ["vincentcp"]
+name = "WaveletsEvaluation"
+repo = "https://github.com/FrameFunVC/WaveletsEvaluation.jl"
+uuid = "56f66b1c-89a8-11e8-2073-09c9ab0369ab"
