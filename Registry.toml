@@ -13,8 +13,9 @@ FrameFun.jl and its dependencies.
 4343a256-5453-507d-8aad-01a9d7189916 = { name = "BasisFunctions", path = "B/BasisFunctions" }
 455b6770-8cd4-11e8-0457-dd6f5558b097 = { name = "CompactTranslatesDict", path = "C/CompactTranslatesDict" }
 46cda4d2-937d-11e9-3838-37f61ad0fd58 = { name = "ApproximationProblems", path = "A/ApproximationProblems" }
+56f66b1c-89a8-11e8-2073-09c9ab0369ab = { name = "WaveletsEvaluation", path = "W/WaveletsEvaluation" }
+7bd7de4a-9dc3-11e9-2e0f-c97135212476 = { name = "DocumentPGFPlots", path = "D/DocumentPGFPlots" }
 87d49508-7ad8-11e8-0eda-cb6920b58870 = { name = "CardinalBSplines", path = "C/CardinalBSplines" }
 a3035606-0d97-52a5-9f37-19f5f67b7424 = { name = "InfiniteVectors", path = "I/InfiniteVectors" }
 bbafa164-4497-5d18-87cf-33e911f89480 = { name = "FrameFun", path = "F/FrameFun" }
 f9748e22-9376-11e9-1445-759e914de658 = { name = "ExtensionFrames", path = "E/ExtensionFrames" }
-7bd7de4a-9dc3-11e9-2e0f-c97135212476 = { name = "DocumentPGFPlots", path = "D/DocumentPGFPlots" }
