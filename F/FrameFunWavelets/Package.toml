@@ -1,0 +1,4 @@
+authors = ["vincentcp"]
+name = "FrameFunWavelets"
+repo = "https://github.com/FrameFunVC/FrameFunWavelets.jl"
+uuid = "c9bc6882-9037-11e8-11a4-43728c8de873"
