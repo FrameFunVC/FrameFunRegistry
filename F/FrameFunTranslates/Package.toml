@@ -1,0 +1,4 @@
+authors = ["vincentcp"]
+name = "FrameFunTranslates"
+repo = "https://github.com/FrameFunVC/FrameFunTranslates.jl"
+uuid = "d30035f4-e938-55a2-bf66-16ee038a887d"
