@@ -1,6 +1,6 @@
 name = "FrameFun General"
 uuid = "ba14b903-9d48-5ec9-93b4-2d38f0d10dc3"
-repo = "https://github.com/vincentcp/FrameFunGeneral.git"
+repo = "https://github.com/FrameFunVC/FrameFunGeneral.git"
 
 description = """
 Julia package registry for unregistered packages used in
