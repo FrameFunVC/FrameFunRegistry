@@ -20,10 +20,13 @@ StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 ToeplitzMatrices = "c751599d-da0a-543b-9d20-d0a503d91d24"
 
-["0.0.1-0.0.6"]
+["0.0.1-0.0.7"]
 GaussQuadrature = "d54b0c1a-921d-58e0-8e36-89d8069c0969"
 GridArrays = "356ae075-8bc9-5ef9-a342-46c9ba26438c"
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
 
-["0.0.4-0.0.6"]
+["0.0.4-0.0.7"]
 OrderedCollections = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
+
+["0.0.7"]
+PGFPlotsX = "8314cec4-20b6-5062-9cdb-752b83310925"
