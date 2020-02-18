@@ -1,4 +1,9 @@
-["0.1"]
-CompactTranslatesDict = "0.0.7-*"
+[0]
 FrameFun = "0.0.5-*"
 julia = "1.1.0-1"
+
+["0-0.1.0"]
+CompactTranslatesDict = "0.0.7-*"
+
+["0.1.2-0"]
+CompactTranslatesDict = "0.0.10"
