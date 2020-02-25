@@ -7,11 +7,15 @@ BasisFunctions = "0.0.1"
 ["0.0.3"]
 BasisFunctions = "0.0.3"
 
-["0.0.3-0.0.7"]
+["0.0.3-0"]
 GridArrays = "0.1.1-*"
 
 ["0.0.4-0.0.6"]
 BasisFunctions = "0.0.5-*"
 
-["0.0.7"]
+["0.0.7-0.0"]
 BasisFunctions = "0.0.6-*"
+
+["0.1-0"]
+BasisFunctions = "0.1.0-*"
+julia = "1"
