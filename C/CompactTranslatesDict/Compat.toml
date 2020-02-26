@@ -1,0 +1,4 @@
+["0.0.10-0"]
+BasisFunctions = "0.0"
+InfiniteVectors = "0.0.5-*"
+julia = "1"
