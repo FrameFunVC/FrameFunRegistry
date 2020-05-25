@@ -33,3 +33,6 @@ PGFPlotsX = "8314cec4-20b6-5062-9cdb-752b83310925"
 
 ["0.1.1-0"]
 MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
+
+["0.2-0"]
+DomainIntegrals = "cc6bae93-f070-4015-88fd-838f9505a86c"
