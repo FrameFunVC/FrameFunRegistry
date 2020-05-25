@@ -1,4 +1,4 @@
-authors = ["daanhb, roelmatthysen,marcusdavidwebb vincentcp"]
+authors = ["daanhb, roelmatthysen,marcusdavidwebb,vincentcp"]
 name = "FrameFun"
 repo = "https://github.com/daanhb/FrameFun.jl"
 uuid = "bbafa164-4497-5d18-87cf-33e911f89480"
