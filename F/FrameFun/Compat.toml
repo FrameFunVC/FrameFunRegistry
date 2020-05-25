@@ -7,7 +7,7 @@ BasisFunctions = "0.0.1"
 ["0.0.3"]
 BasisFunctions = "0.0.3"
 
-["0.0.3-0"]
+["0.0.3-0.1"]
 GridArrays = "0.1.1-*"
 
 ["0.0.4-0.0.6"]
@@ -16,11 +16,26 @@ BasisFunctions = "0.0.5-*"
 ["0.0.7-0.0"]
 BasisFunctions = "0.0.6-*"
 
-["0.1-0"]
+["0.1"]
 julia = "1"
 
 ["0.1.0"]
 BasisFunctions = "0.1.0-*"
 
-["0.1.1-0"]
+["0.1.1-0.1"]
 BasisFunctions = "0.1.1-*"
+
+["0.2-0"]
+BasisFunctions = "0.2"
+Compat = "3.10.0-3"
+DomainSets = "0.4"
+FillArrays = "0.8"
+GenericLinearAlgebra = "0.2"
+GridArrays = "0.1.6-0.1"
+LowRankApprox = "0.4"
+PGFPlotsX = "1.2.0-1"
+QuadGK = "2.3.0-2"
+RecipesBase = "1"
+Reexport = "0.2"
+StaticArrays = "0.12"
+julia = "1.3.0-1"
