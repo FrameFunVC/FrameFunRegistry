@@ -19,3 +19,6 @@ InfiniteVectors = "a3035606-0d97-52a5-9f37-19f5f67b7424"
 
 ["0.0.7-0"]
 GridArrays = "356ae075-8bc9-5ef9-a342-46c9ba26438c"
+
+["0.1.2-0"]
+DomainIntegrals = "cc6bae93-f070-4015-88fd-838f9505a86c"
