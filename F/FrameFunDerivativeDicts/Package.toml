@@ -1,0 +1,4 @@
+authors = ["vincentcp"]
+name = "FrameFunDerivativeDicts"
+repo = "https://github.com/FrameFunVC/FrameFunDerivativeDicts.jl"
+uuid = "a044d1c3-f59a-42f8-a12e-6f86ba36b853"

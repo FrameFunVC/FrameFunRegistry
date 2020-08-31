@@ -1,0 +1,7 @@
+[0]
+BasisFunctions = "0.2"
+FrameFun = "0.2"
+GridArrays = "0.1"
+MacroTools = "0.5"
+Reexport = "0.2"
+SymbolicDifferentialOperators = "0.1"
