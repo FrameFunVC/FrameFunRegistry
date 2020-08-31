@@ -1,0 +1,4 @@
+authors = ["vincentcp"]
+name = "SymbolicDifferentialOperators"
+repo = "https://github.com/FrameFunVC/SymbolicDifferentialOperators.jl"
+uuid = "9bed4a80-4cf1-49c9-8068-ed85240b7fe1"
