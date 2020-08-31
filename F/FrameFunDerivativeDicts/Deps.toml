@@ -1,0 +1,10 @@
+[0]
+BasisFunctions = "4343a256-5453-507d-8aad-01a9d7189916"
+FrameFun = "bbafa164-4497-5d18-87cf-33e911f89480"
+GridArrays = "356ae075-8bc9-5ef9-a342-46c9ba26438c"
+LazyArrays = "5078a376-72f3-5289-bfd5-ec5146d43c02"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+SymbolicDifferentialOperators = "9bed4a80-4cf1-49c9-8068-ed85240b7fe1"
