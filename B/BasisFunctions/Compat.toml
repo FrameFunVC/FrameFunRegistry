@@ -24,11 +24,9 @@ ToeplitzMatrices = "0.6.1-*"
 
 ["0.2-0"]
 AbstractTrees = "0.3"
-Calculus = "0.5"
 DSP = "0.6"
 DomainIntegrals = "0.2"
 DomainSets = "0.4"
-FFTW = "1.2.0-1.2.1"
 FastGaussQuadrature = "0.4"
 FastTransforms = "0.9"
 FillArrays = "0.8"
@@ -45,3 +43,10 @@ Reexport = "0.2"
 SpecialFunctions = "0.10"
 StaticArrays = "0.12"
 julia = "1.3.0-1"
+
+["0.2.0"]
+Calculus = "0.5"
+FFTW = "1.2.0-1.2.1"
+
+["0.2.1-0"]
+FFTW = "1.2.1"
