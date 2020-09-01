@@ -1,0 +1,4 @@
+authors = ["vincentcp"]
+name = "FrameFunApplications"
+repo = "https://github.com/FrameFunVC/FrameFunApplications.jl"
+uuid = "7a13f18b-3cd4-4eee-9874-b211bcc22269"

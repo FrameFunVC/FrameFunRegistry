@@ -1,0 +1,12 @@
+[0]
+BasisFunctions = "0.2"
+CompactTranslatesDict = "0.1"
+DomainSets = "0.4"
+FrameFun = "0.2"
+FrameFunDerivativeDicts = "0.1"
+FrameFunTranslates = "0.2"
+GridArrays = "0.1"
+ProgressMeter = "1.3.0-1"
+Reexport = "0.2"
+StaticArrays = "0.12"
+SymbolicDifferentialOperators = "0.1"

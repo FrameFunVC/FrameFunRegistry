@@ -12,10 +12,11 @@ FrameFun.jl and its dependencies.
 4343a256-5453-507d-8aad-01a9d7189916 = { name = "BasisFunctions", path = "B/BasisFunctions" }
 455b6770-8cd4-11e8-0457-dd6f5558b097 = { name = "CompactTranslatesDict", path = "C/CompactTranslatesDict" }
 56f66b1c-89a8-11e8-2073-09c9ab0369ab = { name = "WaveletsEvaluation", path = "W/WaveletsEvaluation" }
+7a13f18b-3cd4-4eee-9874-b211bcc22269 = { name = "FrameFunApplications", path = "F/FrameFunApplications" }
 7bd7de4a-9dc3-11e9-2e0f-c97135212476 = { name = "DocumentPGFPlots", path = "D/DocumentPGFPlots" }
 87d49508-7ad8-11e8-0eda-cb6920b58870 = { name = "CardinalBSplines", path = "C/CardinalBSplines" }
-a044d1c3-f59a-42f8-a12e-6f86ba36b853 = { name = "FrameFunDerivativeDicts", path = "F/FrameFunDerivativeDicts" }
 9bed4a80-4cf1-49c9-8068-ed85240b7fe1 = { name = "SymbolicDifferentialOperators", path = "S/SymbolicDifferentialOperators" }
+a044d1c3-f59a-42f8-a12e-6f86ba36b853 = { name = "FrameFunDerivativeDicts", path = "F/FrameFunDerivativeDicts" }
 a3035606-0d97-52a5-9f37-19f5f67b7424 = { name = "InfiniteVectors", path = "I/InfiniteVectors" }
 bbafa164-4497-5d18-87cf-33e911f89480 = { name = "FrameFun", path = "F/FrameFun" }
 c9bc6882-9037-11e8-11a4-43728c8de873 = { name = "FrameFunWavelets", path = "F/FrameFunWavelets" }
